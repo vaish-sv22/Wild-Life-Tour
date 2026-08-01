@@ -1,8 +1,8 @@
-# 🦁 WildTour Web Application
+# WildTour Web Application
 
 A full-stack Java web application developed as part of the **Java Full Stack Development Internship** at **Pentagon Space**. The application provides a user-friendly platform for exploring wildlife tourism destinations, viewing travel packages, and managing tour bookings through an interactive web interface.
 
-## 📌 Project Overview
+## Project Overview
 
 WildTour is designed to simplify wildlife tourism management by allowing users to browse safari packages, accommodation options, guide services, and travel packages while securely managing bookings through a database-driven system.
 
@@ -10,7 +10,7 @@ The project demonstrates the integration of frontend, backend, and database tech
 
 ---
 
-## ✨ Features
+## Features
 
 - User Registration and Login
 - Browse Wildlife Safari Packages
@@ -26,7 +26,7 @@ The project demonstrates the integration of frontend, backend, and database tech
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 - HTML5
@@ -51,7 +51,7 @@ The project demonstrates the integration of frontend, backend, and database tech
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 WildTour/
@@ -68,7 +68,7 @@ WildTour/
 
 ---
 
-## 🗄 Database Setup
+## Database Setup
 
 1. Open MySQL Workbench.
 2. Create a database named:
@@ -90,7 +90,7 @@ String password = "your_password";
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Import the project into Eclipse as a Maven Project.
 2. Configure Apache Tomcat.
@@ -110,7 +110,7 @@ http://localhost:8080/WildTour/
 
 ---
 
-## 📸 Modules
+## Modules
 
 - Home
 - Login
@@ -127,7 +127,7 @@ http://localhost:8080/WildTour/
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - Java Full Stack Development
 - JSP & Servlet Development
@@ -142,7 +142,7 @@ http://localhost:8080/WildTour/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Online Payment Gateway
 - Email Notifications
@@ -154,5 +154,5 @@ http://localhost:8080/WildTour/
 - Spring Boot Backend
 - React Frontend
 
----
+
 
